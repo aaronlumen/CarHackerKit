@@ -1,4 +1,3 @@
-# CarHackerKit
 # CarHackerKit 🚗🔓
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -213,7 +212,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Aaron Surina** - [github.com/aaronlumen](https://github.com/aaronlumen)
+**Aaron Lumen** - [github.com/aaronlumen](https://github.com/aaronlumen)
 
 ---
 

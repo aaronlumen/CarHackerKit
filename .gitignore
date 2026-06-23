@@ -1,21 +1,77 @@
-.gradle
-**/build/
-!**/src/**/build/
+# Built application files
+*.apk
+*.ap_
+*.aab
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# Files for the ART/Dalvik VM
+*.dex
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+# Java class files
+*.class
 
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
+# Generated files
+bin/
+gen/
+out/
+build/
 
-# Cache of project
-.gradletasknamecache
+# Gradle files
+.gradle/
+build/
 
-# Eclipse Gradle plugin generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
+# Local configuration file
+local.properties
+
+# Proguard folder
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# Google Services (API keys)
+google-services.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Test captures and logs
+security/reports/*.json
+security/reports/*.md
+*.candump
+*.canlog
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
