@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common OBD-II USB Adapters -->
+    
+    <!-- ELM327 USB (Various Manufacturers) -->
+    <usb-device vendor-id="1027" product-id="24577" />  <!-- FTDI FT232R -->
+    <usb-device vendor-id="1027" product-id="24597" />  <!-- FTDI FT232H -->
+    <usb-device vendor-id="6790" product-id="29987" />  <!-- CH340 -->
+    <usb-device vendor-id="4292" product-id="60000" />  <!-- CP2102 -->
+    <usb-device vendor-id="4292" product-id="60016" />  <!-- CP2104 -->
+    <usb-device vendor-id="1659" product-id="8963" />   <!-- Prolific PL2303 -->
+    
+    <!-- OBDLink Adapters -->
+    <usb-device vendor-id="5840" product-id="2055" />   <!-- OBDLink SX -->
+    <usb-device vendor-id="5840" product-id="2056" />   <!-- OBDLink MX -->
+    
+    <!-- STN Chip Based -->
+    <usb-device vendor-id="1155" product-id="22336" />  <!-- STM32 -->
+    
+    <!-- CAN Bus Analyzers -->
+    <usb-device vendor-id="1204" product-id="32" />     <!-- PEAK PCAN-USB -->
+    <usb-device vendor-id="3367" product-id="1" />      <!-- Kvaser Leaf -->
+    <usb-device vendor-id="7504" product-id="24592" />  <!-- CANtact -->
+    
+</resources>
